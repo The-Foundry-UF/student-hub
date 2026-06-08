@@ -1,0 +1,20 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Foundations">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#001A82"/><stop offset="1" stop-color="#0A2E6E"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF7A3C"/><stop offset="1" stop-color="#FA4616"/></linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect x="0" y="0" width="10" height="200" fill="url(#acc)"/>
+  <!-- UF Mercury monogram on signature orange block -->
+  <g transform="translate(48 60) scale(1.45)">
+    <rect x="0.1" width="55" height="55" fill="#FA4616"/>
+    <polygon fill="#FFFFFF" points="36.4,36.4 36.4,29.4 42.9,29.4 42.9,24.7 36.4,24.7 36.4,18.1 43.5,18.1 43.5,20.8 48.4,20.8 48.4,13.6 29.4,13.6 29.4,18.1 31.1,18.1 31.1,36.4 29.4,36.4 29.4,41.2 38.1,41.2 38.1,36.4 "/>
+    <path fill="#FFFFFF" d="M26.9,30.7V18.1h1.8v-4.6h-8.8v4.6h1.8v11c0,4.6-0.4,6.8-3.9,6.8c-3.2,0-3.9-2.2-3.9-6.8v-11h1.8v-4.6H6.9v4.6h1.8v12.5c0,2.8,0,5,1.3,7.1c1.5,2.3,4.1,3.8,7.9,3.8C24.5,41.4,26.9,37.9,26.9,30.7z"/>
+  </g>
+  <text x="180" y="78" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5" fill="#FA8A5C" font-weight="700">THE FOUNDRY @ UF</text>
+  <text x="178" y="128" font-family="Arial, Helvetica, sans-serif" font-size="54" fill="#FFFFFF" font-weight="800">Foundations</text>
+  <text x="181" y="162" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6F2">Core engineering practices used across The Foundry.</text>
+  <rect x="0" y="192" width="1200" height="8" fill="url(#acc)"/>
+</svg>

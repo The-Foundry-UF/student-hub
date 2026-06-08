@@ -1,0 +1,37 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Foundry @ UF — Engineering Guidelines Hub">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#001A82"/>
+      <stop offset="0.55" stop-color="#0021A5"/>
+      <stop offset="1" stop-color="#0A2E6E"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF7A3C"/>
+      <stop offset="1" stop-color="#FA4616"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- subtle diagonal grid -->
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 80 L1200 80"/>
+    <path d="M0 160 L1200 160"/>
+    <path d="M0 240 L1200 240"/>
+  </g>
+
+  <!-- UF Mercury monogram on signature orange block -->
+  <g transform="translate(36 105) scale(2)">
+    <rect x="0.1" width="55" height="55" fill="#FA4616"/>
+    <polygon fill="#FFFFFF" points="36.4,36.4 36.4,29.4 42.9,29.4 42.9,24.7 36.4,24.7 36.4,18.1 43.5,18.1 43.5,20.8 48.4,20.8 48.4,13.6 29.4,13.6 29.4,18.1 31.1,18.1 31.1,36.4 29.4,36.4 29.4,41.2 38.1,41.2 38.1,36.4 "/>
+    <path fill="#FFFFFF" d="M26.9,30.7V18.1h1.8v-4.6h-8.8v4.6h1.8v11c0,4.6-0.4,6.8-3.9,6.8c-3.2,0-3.9-2.2-3.9-6.8v-11h1.8v-4.6H6.9v4.6h1.8v12.5c0,2.8,0,5,1.3,7.1c1.5,2.3,4.1,3.8,7.9,3.8C24.5,41.4,26.9,37.9,26.9,30.7z"/>
+  </g>
+
+  <!-- text -->
+  <text x="190" y="118" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="6" fill="#FA8A5C" font-weight="700">THE FOUNDRY @ UF</text>
+  <text x="188" y="190" font-family="Arial, Helvetica, sans-serif" font-size="76" fill="#FFFFFF" font-weight="800">Engineering Guidelines</text>
+  <text x="192" y="236" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#C9D6F2" font-weight="400">Ship production code on real AI &amp; cybersecurity projects.</text>
+
+  <!-- orange base bar -->
+  <rect x="0" y="308" width="1200" height="12" fill="url(#spark)"/>
+</svg>
