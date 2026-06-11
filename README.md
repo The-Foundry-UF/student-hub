@@ -5,7 +5,7 @@
 <br/>
 
 [![University of Florida](https://img.shields.io/badge/University_of_Florida-0021A5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NSA1NSI+PHJlY3Qgd2lkdGg9IjU1IiBoZWlnaHQ9IjU1IiBmaWxsPSIjRkE0NjE2Ii8+PHBvbHlnb24gZmlsbD0iI2ZmZiIgcG9pbnRzPSIzNi40LDM2LjQgMzYuNCwyOS40IDQyLjksMjkuNCA0Mi45LDI0LjcgMzYuNCwyNC43IDM2LjQsMTguMSA0My41LDE4LjEgNDMuNSwyMC44IDQ4LjQsMjAuOCA0OC40LDEzLjYgMjkuNCwxMy42IDI5LjQsMTguMSAzMS4xLDE4LjEgMzEuMSwzNi40IDI5LjQsMzYuNCAyOS40LDQxLjIgMzguMSw0MS4yIDM4LjEsMzYuNCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yNi45LDMwLjdWMTguMWgxLjh2LTQuNmgtOC44djQuNmgxLjh2MTFjMCw0LjYtMC40LDYuOC0zLjksNi44Yy0zLjIsMC0zLjktMi4yLTMuOS02Ljh2LTExaDEuOHYtNC42SDYuOXY0LjZoMS44djEyLjVjMCwyLjgsMCw1LDEuMyw3LjFjMS41LDIuMyw0LjEsMy44LDcuOSwzLjhDMjQuNSw0MS40LDI2LjksMzcuOSwyNi45LDMwLjd6Ii8+PC9zdmc+)](https://www.ufl.edu/)
-[![Independent Program](https://img.shields.io/badge/An_Independent-Engineering_Program-FA4616?style=for-the-badge)](https://the-foundry-eosin.vercel.app/)
+[![CISE Program](https://img.shields.io/badge/A_CISE-Program_at_UF-FA4616?style=for-the-badge)](https://the-foundry-eosin.vercel.app/)
 [![Live Site](https://img.shields.io/badge/Live_Site-the--foundry-0021A5?style=for-the-badge&logo=vercel&logoColor=white)](https://the-foundry-eosin.vercel.app/)
 [![Guidelines](https://img.shields.io/badge/16_Guidelines-4_Categories-FA4616?style=for-the-badge)](#-categories)
 
