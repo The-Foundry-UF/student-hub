@@ -23,7 +23,7 @@ System design and architecture guidelines for scalable production systems — ho
 | 2 | **Cloud Vendor** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1xOiGjK74igNZ-QYTiBWSqw_Xq9ZIjZzh?usp=drive_link) |
 | 3 | **Database Vendor** | ✅ Available | [Open →](https://drive.google.com/drive/folders/19pumsrbGPagEfFHX56RN_OvKKQRfdTcK?usp=drive_link) |
 | 4 | **Frameworks** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1Cr7T2BVY-sSib5IFm-f2KC0cFCFGzzXM?usp=drive_link) |
-| 5 | **AI Models** | 🚧 Coming Soon | _Pending_ |
+| 5 | **AI Models** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1tbCQawXFscPc_VAY9jC6lqG4zxgQN-hg?usp=drive_link) |
 | 6 | **CI/CD and Releases** | 🚧 Coming Soon | _Pending_ |
 | 7 | **Deployment** | 🚧 Coming Soon | _Pending_ |
 

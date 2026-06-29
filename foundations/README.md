@@ -22,9 +22,9 @@ Core engineering guidelines used across The Foundry — the practices every cont
 | 1 | **Source Code Management & Roles** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1zfVT2_FUYtnphR9J9PyBnL2FvaTN4bzh?usp=drive_link) |
 | 2 | **Security** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1hFOWhW3CFsRWEXuARyMPeaFpAwHk5F-m?usp=drive_link) |
 | 3 | **Accessibility** | 🚧 Coming Soon | _Pending_ |
-| 4 | **Requirement Gathering** | 🚧 Coming Soon | _Pending_ |
-| 5 | **Testing** | 🚧 Coming Soon | _Pending_ |
-| 6 | **User Research** | 🚧 Coming Soon | _Pending_ |
+| 4 | **Requirement Gathering** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1eZo9gE-MBpfg-pjMbC5OjXdbYVOMcLs5?usp=drive_link) |
+| 5 | **Testing** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1N4k42q9kCreEQTNKBvyAAdH7Gn8yKtpN?usp=drive_link) |
+| 6 | **User Research** | ✅ Available | [Open →](https://drive.google.com/drive/folders/1dO-ss2Hi5Qg61Z87GMg1VIejxxVBPhV-?usp=drive_link) |
 | 7 | **Privacy Policy** | 🚧 Coming Soon | _Pending_ |
 
 ---
